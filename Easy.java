@@ -1,6 +1,8 @@
 public class Easy{
     public static void main(String[] args) {
-        int m=2, n=3;
+        int m=2, n=3; 
+        // m is total rows
+        // n is total cols
         int i=0, j=0; // initialising row and col
         System.out.println(move(m,n,i,j));
     }
@@ -14,3 +16,4 @@ public class Easy{
 //                             last row reached + last col reached
     }
 }
+// OUTPUT: 3
