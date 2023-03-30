@@ -13,7 +13,8 @@ public class Easy{
                         return 1;
 
                         return move(m,n,i+1,j) + move(m,n,i,j+1);
-//                             last row reached + last col reached
+//                             last col reached + last row reached
+        //                    move to next row  + move to next col
     }
 }
 // OUTPUT:3
