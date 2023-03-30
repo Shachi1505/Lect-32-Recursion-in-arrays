@@ -16,4 +16,4 @@ public class Easy{
 //                             last row reached + last col reached
     }
 }
-// OUTPUT: 3
+// OUTPUT:3
